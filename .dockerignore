@@ -1,0 +1,16 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore local environment files
+.env
+venv/
+.venv/
+
+# Ignore the heavy Vector DB (we usually mount this or rebuild it)
+hospitality_data/
+
+# Ignore Git history
+.git/
+.gitignore

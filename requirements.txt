@@ -1,0 +1,9 @@
+streamlit
+langchain-community
+chromadb
+huggingface_hub
+crewai==0.28.8
+langchain-google-genai==1.0.3
+pydantic==2.7.1
+python-dotenv
+setuptools
